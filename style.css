@@ -1,0 +1,37 @@
+#h1 {
+    background-color: hsl(5, 80%, 90%);
+    text-align: center;
+}
+
+body {
+    background-color: rgb(255, 249, 240);
+}
+#bookName{
+color: red;
+font-size: 50px;
+}
+#bookAuthor{
+    color: red;
+    font-size: 50px;
+}
+#bookVerses{
+    color: red;
+    font-size: 50px;
+}
+#name{
+    color:blue;
+}
+#author{
+    color:blue;
+  
+}
+#verses{
+    color:blue;
+}
+button{
+    background-color: blue;
+    color: blanchedalmond;
+}
+.searchButton{
+    margin-top: 50px;
+}
